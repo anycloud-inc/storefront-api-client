@@ -1,0 +1,1 @@
+{"version":3,"file":"storefront-api-client.d.ts","sourceRoot":"","sources":["../../src/storefront-api-client.ts"],"names":[],"mappings":"AAUA,OAAO,EACL,0BAA0B,EAC1B,mBAAmB,EAEpB,MAAM,SAAS,CAAC;AAiBjB,wBAAgB,yBAAyB,CAAC,EACxC,WAAW,EACX,UAAU,EACV,iBAAiB,EACjB,kBAAkB,EAClB,UAAU,EACV,OAAW,EACX,cAAc,EAAE,cAAc,EAC9B,MAAM,GACP,EAAE,0BAA0B,GAAG,mBAAmB,CAiFlD"}
